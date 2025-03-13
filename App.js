@@ -8,6 +8,7 @@ import Mulher2 from './screens/Mulher2';
 import Mulher3 from './screens/Mulher3';
 import Mulher4 from './screens/Mulher4';
 import Mulher5 from './screens/Mulher5';
+import Mulher6 from './screens/Mulher6';
 
 export default function App() {
   return (
